@@ -331,6 +331,7 @@ class Utils
             'frameborder' => 0,
             'allowTransparency' => 'true',
             'style' => $styles,
+            'allowfullscreen' => 'true'
         ]).'</iframe>';
     }
 
